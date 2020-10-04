@@ -1,0 +1,12 @@
+'use strict'; 
+const n = prompt('Введите массив чисел через', ''); 
+const arr = n.split(' '); 
+const count = arr.lenght; 
+arr.sort((a, b) => a - b); 
+const min = arr[0]; 
+const max = arr[arr.length - 1]; 
+const sum = arr.reduce((acc, curr) => acc + Number(curr), 0); 
+alert('Максимуим в массиве: '+ max); 
+alert('Минимум в массиве: '+ min); 
+alert('Сумма: ' + sum); 
+alert('После сортировки: ' + arr.join(' '));
