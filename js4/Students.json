@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Alian",
+        "surname": "NoWar",
+        "kurs": 2,
+        "group": 6,
+        "mark": 7.4
+    },
+    {
+        "name": "Walera",
+        "surname": "Snoggan",
+        "kurs": 4,
+        "group": 11,
+        "mark": 8.2
+    },
+    {
+        "name": "Kappa",
+        "surname": "Pride",
+        "kurs": 1,
+        "group": 5,
+        "mark": 4.2
+    },
+    {
+        "name": "Malfoy",
+        "surname": "Drago",
+        "kurs": 3,
+        "group": 8,
+        "mark": 9.6
+    },
+    {
+        "name": "Zaratustra",
+        "surname": "SaidIt",
+        "kurs": 2,
+        "group": 9,
+        "mark": 8.4
+    }
+]
